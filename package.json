@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "local": "node src/index.js"
+  }
+}
